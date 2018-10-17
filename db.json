@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Jessie",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "likes": 15,
+      "id": 9
+    },
+    {
+      "name": "Pet Rock",
+      "image": "https://pbs.twimg.com/profile_images/696633788105945088/QvpEVG3g.jpg",
+      "likes": 15,
+      "id": 10
+    },
+    {
+      "name": "Voltron",
+      "image": "https://aa1a5178aef33568e9c4-a77ea51e8d8892c1eb8348eb6b3663f6.ssl.cf5.rackcdn.com/p/thumb/TOY10621_i.jpg",
+      "likes": 11,
+      "id": 11
     }
   ]
 }
